@@ -1,6 +1,6 @@
 white_screen = false 
 rainbow_window = false 
-restart_pc = false 
+restart_pc = true
 shutdown_pc = false 
 signout_pc = false 
 display_notification = [
