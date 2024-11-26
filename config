@@ -3,9 +3,7 @@ rainbow_window = false
 restart_pc = false
 shutdown_pc = false
 signout_pc = false
-display_notification = [
-    {"event": "...", "message": "..."},
-]
+display_notification = [{'event': "...", 'message': "..."}]
 spin_screen = false
-open_app = ""
-open_website = ""
+open_app = 
+open_website = 
