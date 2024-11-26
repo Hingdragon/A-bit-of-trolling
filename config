@@ -1,5 +1,5 @@
 white_screen = false
 rainbow_window = false
 restart_pc = false
-shutdown_pc = true
+shutdown_pc = false
 signout_pc = false
